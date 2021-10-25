@@ -65,7 +65,8 @@ function calculadora() {
         }
       }
     }
-
+    
+    // Opção com if, else if e else
     // if (operacao == 1) {
     //   soma();
     // } else if (operacao == 2) {
@@ -79,7 +80,8 @@ function calculadora() {
     // } else if (operacao == 6) {
     //   potenciacao();
     // }
-
+    
+    // Opção com switch/case
     switch (operacao) {
       case 1:
         soma();
